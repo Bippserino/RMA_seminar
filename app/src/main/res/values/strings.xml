@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CheersApp</string>
+    <string name="search_button_label">SEARCH</string>
+    <string name="random_button_label">RANDOM</string>
+    <string name="alcoholic_checkbox">Alcoholic</string>
+    <string name="search_by_ingredience_checkbox">Search by ingredience</string>
+    <string name="search_bar_placeholder">Cocktail name</string>
+    <string name="copyright">Bojan Mandić</string>
+</resources>
